@@ -1,0 +1,415 @@
+[
+ {
+  "date": "05/11",
+  "type": "reel",
+  "assets": [
+   "05_reel.mp4"
+  ],
+  "cover": "05_capa.jpg",
+  "caption": "Dicionário têxtil aberto! 🎬\n5àsec de A a Z está no ar para descomplicar a sua rotina de lavanderia.\nHoje o destaque é a letra B, de Bactericida.\nDê o play para descobrir como esse tratamento elimina ácaros e bactérias por até um mês, sem causar alergias.\nE aproveite para deixar nos comentários: qual palavra, técnica ou curiosidade você quer ver descomplicada no próximo episódio? 👇",
+  "slot": "reels"
+ },
+ {
+  "date": "06/11",
+  "type": "story",
+  "assets": [
+   "06_story_1.png",
+   "06_story_2.png",
+   "06_story_3.png",
+   "06_story_4.png",
+   "06_story_5.png",
+   "06_story_6.png",
+   "06_story_7.png"
+  ],
+  "caption": "",
+  "slot": "story"
+ },
+ {
+  "date": "06/11",
+  "type": "carousel",
+  "assets": [
+   "06_feed_1.png",
+   "06_feed_2.png",
+   "06_feed_3.png",
+   "06_feed_4.png",
+   "06_feed_5.png",
+   "06_feed_6.png",
+   "06_feed_7.png"
+  ],
+  "caption": "Nem todo herói usa capa, alguns usam a tecnologia da 5àsec para salvar o seu guarda-roupa. 🦸‍♂️✨\nPara preservar as suas peças favoritas com o nível de exigência que elas merecem, transformamos a nossa expertise em superpoderes reais para o seu dia a dia.\nDo alinhamento perfeito do Amidonnage contra imprevistos ao resgate daquele branco perfeito com o Branco+ cada serviço adicional da 5àsec foi criado com um único propósito: garantir que as suas roupas continuem impecáveis por muito mais tempo.",
+  "slot": "feed"
+ },
+ {
+  "date": "07/11",
+  "type": "story",
+  "assets": [
+   "07_story.png"
+  ],
+  "caption": "",
+  "slot": "story"
+ },
+ {
+  "date": "07/11",
+  "type": "feed",
+  "assets": [
+   "07_feed.png"
+  ],
+  "caption": "Quem te falou que tecnologia têxtil, sustentabilidade e cuidado premium custam caro, ainda não conheceu o Plano 5àsec do Seu Jeito ✨\nAqui, essa expertise toda vem com vantagens que se adaptam perfeitamente ao seu ritmo e ao seu bolso.",
+  "slot": "feed"
+ },
+ {
+  "date": "08/11",
+  "type": "feed",
+  "assets": [
+   "01_feed.png"
+  ],
+  "caption": "A 5àsec trocou as embalagens tradicionais por sacos 100% compostáveis feitos de cana-de-açúcar, tirando 200 toneladas de plástico do meio ambiente todos os anos.\nFoi exatamente por focar na prática em vez do discurso que levamos o Prêmio Destaque em Sustentabilidade da ABF. Roupa limpa, embalagem inteligente e impacto real.",
+  "slot": "feed"
+ },
+ {
+  "date": "09/11",
+  "type": "reel",
+  "assets": [
+   "09_reel.mp4"
+  ],
+  "cover": "09_capa.jpg",
+  "caption": "Você sabia que a sacola que usamos já foi cana-de-açúcar? 🤯\nPor aqui, o cuidado tecnológico que renova as suas peças também se estende para a forma como elas voltam para a sua casa.\nMenos lixo, mais inovação.\nFaça escolhas conscientes e faça parte do nosso compromisso por um Brasil mais sustentável! 🧡💜",
+  "slot": "reels"
+ },
+ {
+  "date": "10/11",
+  "type": "story",
+  "assets": [
+   "10_story.png"
+  ],
+  "caption": "",
+  "slot": "story"
+ },
+ {
+  "date": "10/11",
+  "type": "feed",
+  "assets": [
+   "10_feed.png"
+  ],
+  "caption": "Dia corrido? Nosso Delivery resolve. Acumulou peças? Vai de BAG. Quer previsibilidade e vantagens? É só escolher o seu Plano.\nSimplifique o dia a dia com a 5àSec.",
+  "slot": "feed"
+ },
+ {
+  "date": "12/11",
+  "type": "story",
+  "assets": [
+   "12_story_1.png",
+   "12_story_2.png",
+   "12_story_3.png"
+  ],
+  "caption": "",
+  "slot": "story"
+ },
+ {
+  "date": "12/11",
+  "type": "carousel",
+  "assets": [
+   "12_feed_1.png",
+   "12_feed_2.png",
+   "12_feed_3.png"
+  ],
+  "caption": "Se o truque da internet parece bom demais para ser verdade, provavelmente ele vai estragar a sua roupa. 🧪💥\nAquelas misturinhas caseiras podem até parecer milagrosas nos vídeos, mas a verdade é que a combinação inadequada de produtos químicos pode danificar o tecido e até liberar substâncias prejudiciais à saúde.\n⚠️Em vez de arriscar as suas roupas em procedimentos duvidosos, escolha a segurança de um tratamento especializado da 5àSec.",
+  "slot": "feed"
+ },
+ {
+  "date": "13/11",
+  "type": "story",
+  "assets": [
+   "13_story.png"
+  ],
+  "caption": "",
+  "slot": "story"
+ },
+ {
+  "date": "14/11",
+  "type": "story",
+  "assets": [
+   "14_story.png"
+  ],
+  "caption": "",
+  "slot": "story"
+ },
+ {
+  "date": "14/11",
+  "type": "feed",
+  "assets": [
+   "14_feed.png"
+  ],
+  "caption": "Dar conta de tudo não significa fazer tudo sozinho. O segredo de quem mantém uma rotina leve e  organizada é contar com os parceiros certos para as tarefas do dia a dia.\nDeixar a parte da lavanderia com a 5àsec é a escolha mais inteligente para garantir tecnologia no tratamento dos tecidos e mais tempo para a sua vida.\nClique no link da bio, peça o seu delivery e ganhe mais tempo livre hoje mesmo!",
+  "slot": "feed"
+ },
+ {
+  "date": "15/11",
+  "type": "story",
+  "assets": [
+   "15_story.png"
+  ],
+  "caption": "",
+  "slot": "story"
+ },
+ {
+  "date": "15/11",
+  "type": "feed",
+  "assets": [
+   "15_feed.png"
+  ],
+  "caption": "Feriado é para descansar. A semana que vem a gente organiza para você. 🇧🇷✨\nConte com a 5àsec para manter suas peças renovadas e tratadas por especialistas, sem perder um minuto da sua folga.",
+  "slot": "feed"
+ },
+ {
+  "date": "16/11",
+  "type": "feed",
+  "assets": [
+   "02_feed.png"
+  ],
+  "caption": "Nós devolvemos o seu tempo! ⏰\nCuidar das roupas não precisa ser mais uma peça difícil de encaixar na sua agenda.\nNossos serviços foram desenhados para se adaptar ao seu ritmo: conte com nosso App, Delivery ou mais de 600 lojas espalhadas por todo Brasil\nClique no link da bio e encontre a 5àsec mais próxima!",
+  "slot": "feed"
+ },
+ {
+  "date": "17/11",
+  "type": "story",
+  "assets": [
+   "17_story.png"
+  ],
+  "caption": "",
+  "slot": "story"
+ },
+ {
+  "date": "17/11",
+  "type": "feed",
+  "assets": [
+   "17_feed.png"
+  ],
+  "caption": "Prevenção não é sinal de fragilidade, é decisão inteligente. Na 5àSec, acreditamos que o cuidado vai além das roupas.\nFaça seus exames preventivos e incentive os homens da sua vida a fazerem o mesmo.",
+  "slot": "feed"
+ },
+ {
+  "date": "18/11",
+  "type": "story",
+  "assets": [
+   "18_story_1.png",
+   "18_story_2.png"
+  ],
+  "caption": "",
+  "slot": "story"
+ },
+ {
+  "date": "18/11",
+  "type": "carousel",
+  "assets": [
+   "18_feed_1.png",
+   "18_feed_2.png"
+  ],
+  "caption": "Garantir o futuro das próximas gerações é uma escolha prática de hoje. 🌱👶\nCom embalagens compostáveis de cana-de-açúcar, produtos biodegradáveis e uso inteligente de água, a 5àsec garante o tratamento ideal para o seu guarda-roupa sem desperdiçar recursos naturais.\nMais durabilidade para o seu armário, mais respeito ao planeta.",
+  "slot": "feed"
+ },
+ {
+  "date": "19/11",
+  "type": "story",
+  "assets": [
+   "19_story_1.png",
+   "19_story_2.png",
+   "19_story_3.png",
+   "19_story_4.png"
+  ],
+  "caption": "",
+  "slot": "story"
+ },
+ {
+  "date": "19/11",
+  "type": "carousel",
+  "assets": [
+   "19_feed_1.png",
+   "19_feed_2.png",
+   "19_feed_3.png",
+   "19_feed_4.png"
+  ],
+  "caption": "Com o tratamento profissional da 5àsec, o seu guarda-roupa fica pronto para encarar qualquer ocasião e voltar impecável ao cabide.",
+  "slot": "feed"
+ },
+ {
+  "date": "20/11",
+  "type": "story",
+  "assets": [
+   "20_story_1.png",
+   "20_story_2.png",
+   "20_story_3.png",
+   "20_story_4.png"
+  ],
+  "caption": "",
+  "slot": "story"
+ },
+ {
+  "date": "20/11",
+  "type": "carousel",
+  "assets": [
+   "20_feed_1.png",
+   "20_feed_2.png",
+   "20_feed_3.png",
+   "20_feed_4.png"
+  ],
+  "caption": "Neste Dia da Consciência Negra, celebramos a riqueza da cultura e da expressão através do vestir.",
+  "slot": "feed"
+ },
+ {
+  "date": "21/11",
+  "type": "story",
+  "assets": [
+   "21_story.png"
+  ],
+  "caption": "",
+  "slot": "story"
+ },
+ {
+  "date": "21/11",
+  "type": "feed",
+  "assets": [
+   "21_feed.png"
+  ],
+  "caption": "Sua lista de tarefas só precisa de um clique.\nIndependente do cuidado que você precisa para sua peça, a gente tem a solução.\n📲 Baixe o app e tenha a praticidade sempre à mão.",
+  "slot": "feed"
+ },
+ {
+  "date": "22/11",
+  "type": "feed",
+  "assets": [
+   "03_feed.png"
+  ],
+  "caption": "A sua rotina não precisa ser cronometrada pelo ciclo da máquina.\nCom a 5àsec, você troca a preocupação da área de serviço pela conveniência do nosso delivery.\nO único alerta que realmente importa é o das suas peças prontas chegando na porta de casa.\nAcesse o link na bio, agende a sua coleta pelo site ou app e deixe o cuidado com a gente. 🚐📲",
+  "slot": "feed"
+ },
+ {
+  "date": "23/11",
+  "type": "story",
+  "assets": [
+   "23_story.png"
+  ],
+  "caption": "",
+  "slot": "story"
+ },
+ {
+  "date": "23/11",
+  "type": "feed",
+  "assets": [
+   "23_feed.png"
+  ],
+  "caption": "Peças especiais exigem uma manutenção à altura.\nSolicite o serviço exclusivo revitalizar na próxima visita a 5àsec e devolva o caimento e a cor original ao seu vestido favorito.",
+  "slot": "feed"
+ },
+ {
+  "date": "24/11",
+  "type": "story",
+  "assets": [
+   "24_story.png"
+  ],
+  "caption": "",
+  "slot": "story"
+ },
+ {
+  "date": "24/11",
+  "type": "feed",
+  "assets": [
+   "24_feed.png"
+  ],
+  "caption": "É paixão à primeira vista quando você recebe pela primeira vez as roupas com padrão de qualidade 5àSec. Experimente e comprove! É um caminho sem volta 💜🧡",
+  "slot": "feed"
+ },
+ {
+  "date": "25/11",
+  "type": "story",
+  "assets": [
+   "25_story_1.png",
+   "25_story_2.png",
+   "25_story_3.png",
+   "25_story_4.png",
+   "25_story_5.png",
+   "25_story_6.png"
+  ],
+  "caption": "",
+  "slot": "story"
+ },
+ {
+  "date": "25/11",
+  "type": "carousel",
+  "assets": [
+   "25_feed_1.png",
+   "25_feed_2.png",
+   "25_feed_3.png",
+   "25_feed_4.png",
+   "25_feed_5.png",
+   "25_feed_6.png"
+  ],
+  "caption": "Quando o serviço é de excelência, o reconhecimento vem naturalmente. Passe para o lado e conheça alguns dos prêmios que já ganhamos ao longo de quase 60 anos.",
+  "slot": "feed"
+ },
+ {
+  "date": "26/11",
+  "type": "reel",
+  "assets": [
+   "26_reel.mp4"
+  ],
+  "cover": null,
+  "caption": "Plano 5àSec do Seu Jeito: você escolhe o formato que faz mais sentido para o seu volume de uso e, em troca, ganha bônus reais para aproveitar os nossos serviços como quiser.",
+  "slot": "reels"
+ },
+ {
+  "date": "27/11",
+  "type": "reel",
+  "assets": [
+   "27_reel.mp4"
+  ],
+  "cover": "27_capa.jpg",
+  "caption": "Você já conhece nosso serviço de delivery?\nEnquanto você cuida da sua rotina e do seu bem-estar, a 5àsec cuida dos tecidos que acompanham cada momento do seu dia.\nAgende a sua entrega!",
+  "slot": "reels"
+ },
+ {
+  "date": "28/11",
+  "type": "story",
+  "assets": [
+   "28_story.png"
+  ],
+  "caption": "",
+  "slot": "story"
+ },
+ {
+  "date": "28/11",
+  "type": "feed",
+  "assets": [
+   "28_feed.png"
+  ],
+  "caption": "Se aquela cadeira do quarto já virou parte da decoração, tá na hora de mudar a estratégia da sua rotina. 👀\nA conta é simples: menos bagunça no quarto, mais eficiência no seu dia com a higienização especializada da 5àsec.\nAcesse o link na bio e descubra a unidade mais próxima.",
+  "slot": "feed"
+ },
+ {
+  "date": "29/11",
+  "type": "feed",
+  "assets": [
+   "04_feed.png"
+  ],
+  "caption": "Qual facilidade resolve o seu dia?\nO nosso delivery resolve qualquer agenda corrida, a BAG resolve todo o volume de peças de uma vez só e o Plano 5àsec do Seu Jeito te dá bônus personalizados para a sua rotina.\nAcesse o link na bio e saiba mais!",
+  "slot": "feed"
+ },
+ {
+  "date": "30/11",
+  "type": "story",
+  "assets": [
+   "30_story.png"
+  ],
+  "caption": "",
+  "slot": "story"
+ },
+ {
+  "date": "30/11",
+  "type": "feed",
+  "assets": [
+   "30_feed.png"
+  ],
+  "caption": "Não espere o desgaste aparecer: a verdadeira preservação acontece no cuidado contínuo.\nConte com a nossa higienização especializada para proteger tecidos delicados e prolongar a vida útil das suas peças inesquecíveis.",
+  "slot": "feed"
+ }
+]
